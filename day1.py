@@ -1,2 +1,5 @@
 #python intro
-print("hello world")
+#print("hello world")
+#forloops
+for i in range(6):
+    print(i)
